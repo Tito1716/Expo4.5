@@ -1,0 +1,1135 @@
+C:\Users\Lab-2\Desktop\EXPO\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Form1.resources
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Form2.resources
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Lab-2\Desktop\EXPO\EXPO\bin\Debug\EXPO.exe
+C:\Users\Lab-2\Desktop\EXPO\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.exe
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Form3.resources
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Form4.resources
+C:\Users\Lab-2\Desktop\EXPO\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Lab-2\Desktop\EXPO\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Form6.resources
+C:\Users\Lab-2\Desktop\EXPO\EXPO\obj\Debug\EXPO.Form5.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\EXPO.exe.config
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.exe
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.pdb
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\EXPO.exe
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\EXPO.pdb
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\itextsharp.dll
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\itextsharp.xml
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form1.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form2.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form3.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form4.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form5.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form6.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form7.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\DBEXPO.accdb
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form8.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form10.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form11.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form9.resources
+E:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form12.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\bin\Debug\EXPO.exe.config
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.exe
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.pdb
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form1.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form10.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form11.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form12.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form2.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form3.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form4.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form5.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form6.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form7.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form8.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Form9.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+F:\expo vFINAL\expo 3.0\EXPO\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\DBEXPO.accdb
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form1.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form10.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form11.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form12.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form2.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form3.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form4.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form5.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form6.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form7.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form8.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form9.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+E:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+E:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\DBEXPO.accdb
+E:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe
+E:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+E:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+E:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form1.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form10.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form11.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form12.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form13.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form2.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form3.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form4.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form5.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form6.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form7.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form8.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form9.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+E:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Form14.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Markos Computo\expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Markos Computo\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Markos Computo\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Markos Computo\expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\bin\Debug\DBEXPO.accdb
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Bryan\Desktop\Alex\Tecnicas\Expo\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\DBEXPO.accdb
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRAgregar_Partidos.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRAgregar_Partidos.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\DBEXPO.accdb
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Markos Computo\Mods\Multi Theft Auto\expo-3.0\expo 3.0\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.exe
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\bin\Debug\DBEXPO.accdb
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\bin\Debug\EXPO.exe
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRAgregar_Partidos.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FREspera.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRSplash.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+F:\EXPO 1.0\Programa\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRAgregar_Partidos.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\danie\Desktop\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+C:\Users\danie\Desktop\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\danie\Desktop\EXPO beta\EXPO\bin\Debug\EXPO.exe
+C:\Users\danie\Desktop\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+F:\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+F:\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+F:\EXPO beta\EXPO\obj\Debug\EXPO.exe
+F:\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+F:\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRAgregar_Partidos.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FREspera.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRSplash.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+F:\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+F:\EXPO beta\EXPO\bin\Debug\EXPO.exe
+F:\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+F:\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+F:\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRAgregarPartido.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\EXPO wll\EXPO beta\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+E:\Expo\EXPO\bin\Debug\EXPO.exe.config
+E:\Expo\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+E:\Expo\EXPO\obj\Debug\EXPO.exe
+E:\Expo\EXPO\obj\Debug\EXPO.pdb
+E:\Expo\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+E:\Expo\EXPO\obj\Debug\EXPO.FRAgregarPartido.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FREspera.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRLogin.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRInicio.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRPerfil.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRPartidos.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRSplash.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRVotantes.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRVotando.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+E:\Expo\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+E:\Expo\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+E:\Expo\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+E:\Expo\EXPO\bin\Debug\EXPO.exe
+E:\Expo\EXPO\bin\Debug\EXPO.pdb
+E:\Expo\EXPO\bin\Debug\itextsharp.dll
+E:\Expo\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRVer.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.FRVPartidos.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo\Expo\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRVer.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRVotando.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.FRVPartidos.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Markos Computo\Expo\EXPO\bin\Debug\itextsharp.xml
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe.config
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.exe
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.pdb
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FREspera.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLogin.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRInicio.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPerfil.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPartidos.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRSplash.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotantes.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.pdb
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.dll
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.dll
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\MaterialSkin.dll
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.xml
+F:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.xml
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe.config
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.exe
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.pdb
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FREspera.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLogin.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRInicio.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPerfil.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPartidos.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRSplash.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVer.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotantes.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotar.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVPartidos.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+E:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.pdb
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.dll
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.dll
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\MaterialSkin.dll
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.xml
+E:\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.xml
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+F:\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Desktop\EXPO FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe.config
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.exe
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.pdb
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FREspera.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLogin.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRInicio.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPerfil.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPartidos.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRSplash.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotantes.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotar.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.pdb
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.dll
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.dll
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\MaterialSkin.dll
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.xml
+F:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.xml
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe.config
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.exe
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.pdb
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.exe
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\EXPO.pdb
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.dll
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.dll
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\MaterialSkin.dll
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.xml
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\bin\Debug\itextsharp.xml
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FREspera.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLogin.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRInicio.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPerfil.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRPartidos.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRSplash.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotantes.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotar.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+E:\EL FINAL DE LA FINAL\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo-4.0\Expo 4.0\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.pdb
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\EXPO.pdb
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\itextsharp.dll
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\bin\Debug\itextsharp.xml
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\perry_000\Documents\Andrés\La wea que le falta windows design\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\La wea que le falta windows design\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\La-wea-que-le-falta-windows-design\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.pdb
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\EXPO.pdb
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\itextsharp.dll
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.1\EXPO\bin\Debug\itextsharp.xml
+C:\Users\perry_000\Documents\Andrés\Nueva carpeta\Expo 4.1\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\perry_000\Documents\Andrés\Nueva carpeta\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\perry_000\Documents\Andrés\Nueva carpeta\Expo 4.1\EXPO\obj\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\Nueva carpeta\Expo 4.1\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo-4.1\Expo 4.1\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FREleccionDeVotacion.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo Final\Expo-4.1\Expo 4.1\EXPO\bin\Debug\itextsharp.xml
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.pdb
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FREleccionDeVotacion.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\EXPO.pdb
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\itextsharp.dll
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.2\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FREleccionDeVotacion.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.2\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREleccionDeVotacion.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVZonaDepto.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo Final\Expo 4.3\Expo 4.3\EXPO\bin\Debug\itextsharp.xml
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.exe
+C:\Users\perry_000\Documents\Andrés\Expo 2016\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREleccionDeVotacion.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Desktop\Expo 4.3\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe.config
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.ResolveComReference.cache
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.exe
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\EXPO.pdb
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\itextsharp.dll
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\MaterialSkin.dll
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\DevLib.ModernUI.xml
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\bin\Debug\itextsharp.xml
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csprojResolveAssemblyReference.cache
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREleccionDeVotacion.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREspera.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FREsperaExportar.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoVotaciones.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRLogin.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRInicio.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRMenuVotante.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoVotante.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoCand.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRPerfil.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRRecuperarContraseña.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRRedireccion.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRCandidatos.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRPartidos.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRSplash.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotantes.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoUsuario.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoPart.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRGraficoVot.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotandoPartido.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRLoginVot.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotar.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotoAlcalde.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRVotoDiputado.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.FRNuevoPartido.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.Properties.Resources.resources
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.csproj.GenerateResource.Cache
+C:\Users\Markos\Downloads\Expo-4.4 Nuevo\Expo 4.4\Expo 4.3\Expo 4.3\EXPO\obj\Debug\EXPO.NuevoAlcalde.resources

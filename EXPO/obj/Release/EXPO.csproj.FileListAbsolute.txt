@@ -1,0 +1,2 @@
+F:\expo\expo 3.0\EXPO beta\EXPO\bin\Release\EXPO.exe.config
+F:\expo\expo 3.0\EXPO beta\EXPO\obj\Release\EXPO.csproj.ResolveComReference.cache
